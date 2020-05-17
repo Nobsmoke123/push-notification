@@ -1,0 +1,23 @@
+{
+  "name": "push-notification",
+  "version": "1.0.0",
+  "description": "Using web push to send push notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nobsmoke123/push-notification.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nobsmoke123/push-notification/issues"
+  },
+  "homepage": "https://github.com/Nobsmoke123/push-notification#readme",
+  "dependencies": {
+    "web-push": "^3.4.3"
+  }
+}
